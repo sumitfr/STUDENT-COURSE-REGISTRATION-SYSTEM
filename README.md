@@ -1,5 +1,4 @@
 📚 Course Registration System
-📖 Overview
 
 This project is a simple web-based Course Registration System built using PHP, MySQL, HTML, and CSS.
 It allows students to register for courses, view their registered courses, and print course registration slips.
