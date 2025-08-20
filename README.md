@@ -1,9 +1,9 @@
-📚 Course Registration System
+📚**Course Registration System**
 
-This project is a simple web-based Course Registration System built using PHP, MySQL, HTML, and CSS.
+This project is a simple web-based Course Registration System built using PHP, **MySQL**, HTML, and CSS.
 It allows students to register for courses, view their registered courses, and print course registration slips.
 
-🚀 Features
+🚀 **Features**
 
 📝 Student Registration – add new students with details (name, matric number, school, department, etc.).
 
@@ -15,7 +15,7 @@ It allows students to register for courses, view their registered courses, and p
 
 🔗 Navigation & Layout – reusable navigation (nav.php) and footer (footer.php).
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 
 Frontend: HTML, CSS, Bootstrap (if included in your files)
 
